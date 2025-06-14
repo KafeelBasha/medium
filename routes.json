@@ -1,0 +1,747 @@
+[
+  {
+    "Airlines": "IndiGo-American",
+    "source": "CCU",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-American",
+    "source": "DEL",
+    "destination": "JFK"
+  },
+  {
+    "Airlines": "IndiGo-American",
+    "source": "JFK",
+    "destination": "ORD"
+  },
+  {
+    "Airlines": "American-British Airways",
+    "source": "HYD",
+    "destination": "LHR"
+  },
+  {
+    "Airlines": "American-British Airways",
+    "source": "LHR",
+    "destination": "JFK"
+  },
+  {
+    "Airlines": "American-British Airways",
+    "source": "JFK",
+    "destination": "EZE"
+  },
+  {
+    "Airlines": "Air India-Lufthansa",
+    "source": "AMD",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "Air India-Lufthansa",
+    "source": "DEL",
+    "destination": "MUC"
+  },
+  {
+    "Airlines": "Air India-Lufthansa",
+    "source": "MUC",
+    "destination": "CDG"
+  },
+  {
+    "Airlines": "IndiGo-SWISS",
+    "source": "PNQ",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "IndiGo-SWISS",
+    "source": "BLR",
+    "destination": "ZRH"
+  },
+  {
+    "Airlines": "IndiGo-SWISS",
+    "source": "ZRH",
+    "destination": "FRA"
+  },
+  {
+    "Airlines": "Vistara-Virgin Atlantic",
+    "source": "GOI",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "Vistara-Virgin Atlantic",
+    "source": "BOM",
+    "destination": "LHR"
+  },
+  {
+    "Airlines": "Vistara-Virgin Atlantic",
+    "source": "LHR",
+    "destination": "SEA"
+  },
+  {
+    "Airlines": "IndiGo-American",
+    "source": "ATQ",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-American",
+    "source": "JFK",
+    "destination": "MEX"
+  },
+  {
+    "Airlines": "Air India-Air France",
+    "source": "BBI",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "Air India-Air France",
+    "source": "MAA",
+    "destination": "CDG"
+  },
+  {
+    "Airlines": "Air India-Air France",
+    "source": "CDG",
+    "destination": "YYZ"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "COK",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "DEL",
+    "destination": "FRA"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "FRA",
+    "destination": "CPH"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "BLR",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "DEL",
+    "destination": "ATL"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "ATL",
+    "destination": "MIA"
+  },
+  {
+    "Airlines": "IndiGo-United",
+    "source": "BOM",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-United",
+    "source": "DEL",
+    "destination": "ORD"
+  },
+  {
+    "Airlines": "IndiGo-United",
+    "source": "ORD",
+    "destination": "LAX"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "HYD",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "BOM",
+    "destination": "AMS"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "OSL"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "PNQ",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "BLR",
+    "destination": "MUC"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "MUC",
+    "destination": "VIE"
+  },
+  {
+    "Airlines": "IndiGo-SWISS",
+    "source": "GOI",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "IndiGo-SWISS",
+    "source": "MAA",
+    "destination": "ZRH"
+  },
+  {
+    "Airlines": "IndiGo-SWISS",
+    "source": "ZRH",
+    "destination": "PRG"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "COK",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "BLR",
+    "destination": "SFO"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "SFO",
+    "destination": "SEA"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "IDR",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "BOM",
+    "destination": "FRA"
+  },
+  {
+    "Airlines": "Vistara-Lufthansa",
+    "source": "FRA",
+    "destination": "SVO"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "TRV",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "MAA",
+    "destination": "AMS"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "MXP"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "GAU",
+    "destination": "CCU"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "CCU",
+    "destination": "LHR"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "CPT"
+  },
+  {
+    "Airlines": "IndiGo-Air France",
+    "source": "VIZ",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "IndiGo-Air France",
+    "source": "HYD",
+    "destination": "CDG"
+  },
+  {
+    "Airlines": "IndiGo-Air France",
+    "source": "CDG",
+    "destination": "JNB"
+  },
+  {
+    "Airlines": "Vistara-Delta",
+    "source": "JDH",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "Vistara-Delta",
+    "source": "BOM",
+    "destination": "ATL"
+  },
+  {
+    "Airlines": "Vistara-Delta",
+    "source": "ATL",
+    "destination": "DEN"
+  },
+  {
+    "Airlines": "Air India-United",
+    "source": "BPL",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "Air India-United",
+    "source": "DEL",
+    "destination": "ORD"
+  },
+  {
+    "Airlines": "Air India-United",
+    "source": "ORD",
+    "destination": "HNL"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "NAG",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "BOM",
+    "destination": "IST"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "ATH"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "SRQ",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "HYD",
+    "destination": "LHR"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "KWI"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "LKO",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "DEL",
+    "destination": "AMS"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "LIS"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "VNS",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "SFO",
+    "destination": "PDX"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "GAU",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "MAA",
+    "destination": "ATL"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "ATL",
+    "destination": "SLC"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IXB",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "DEL",
+    "destination": "IST"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "CCJ",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "ADL"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "BBI",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "HYD",
+    "destination": "AMS"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "OPO"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "IDR",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "MAA",
+    "destination": "SFO"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "SFO",
+    "destination": "CVG"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "IXC",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "BLR",
+    "destination": "ATL"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "ATL",
+    "destination": "CMH"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "PNH",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "CCS"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "RPR",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "DMM"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMD",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "HAN"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "COK",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "DEL",
+    "destination": "ORD"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "ORD",
+    "destination": "SCL"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "JAI",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "BOM",
+    "destination": "ATL"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "ATL",
+    "destination": "BOG"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "VIZ",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "HYD",
+    "destination": "IST"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "KGL"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "BPL",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "DEL",
+    "destination": "LHR"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "REC"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "NAG",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "BLR",
+    "destination": "IST"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "ABV"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "SRQ",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "HRE"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "LKO",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "MRU"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "VNS",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "BOM",
+    "destination": "SFO"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "SFO",
+    "destination": "PUJ"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "GAU",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "HYD",
+    "destination": "ATL"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "ATL",
+    "destination": "KIN"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IXB",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "MAA",
+    "destination": "IST"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "SAL"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "CCJ",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "BOM",
+    "destination": "LHR"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "ACA"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "BBI",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "BLR",
+    "destination": "AMS"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "MZT"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "IDR",
+    "destination": "HYD"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "HYD",
+    "destination": "SFO"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "SFO",
+    "destination": "MCO"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "ATL",
+    "destination": "JAX"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "PNH",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "CVG"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "BNA"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMD",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "RIC"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "SFO",
+    "destination": "SDF"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "JAI",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "Air India-Delta",
+    "source": "ATL",
+    "destination": "BDL"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "VIZ",
+    "destination": "BOM"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "MKE"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "BPL",
+    "destination": "BLR"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "ISP"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "LHR"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "NAG",
+    "destination": "DEL"
+  },
+  {
+    "Airlines": "IndiGo-Turkish Airlines",
+    "source": "IST",
+    "destination": "STL"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "source": "LHR",
+    "destination": "CVG"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "LKO",
+    "destination": "MAA"
+  },
+  {
+    "Airlines": "IndiGo-KLM",
+    "source": "AMS",
+    "destination": "MSY"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "source": "SFO",
+    "destination": "PIT"
+  }
+]

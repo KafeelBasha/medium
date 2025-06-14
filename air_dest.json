@@ -1,0 +1,18 @@
+[
+  {
+    "Airlines": "IndiGo-American",
+    "destination": "ORD"
+  },
+  {
+    "Airlines": "Air India-British Airways",
+    "destination": "CPT"
+  },
+  {
+    "Airlines": "Vistara-United",
+    "destination": "SEA"
+  },
+  {
+   "Airlines": "American-British Airways",
+   "destination": "EZE"
+  }
+]
